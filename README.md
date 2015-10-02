@@ -1,8 +1,8 @@
 # Mark IV Arc Reactor
 
-* A acrylic replica of Ironman 2 Arc reactor
+* A acrylic replica of Ironman Mark IV Arc reactor
 * Designed using Solidworks
-* [Visit](http://jbytw.com/#/mark-iv-arc-reactor/) for more pictures
+* Visit [website](http://jbytw.com/#/mark-iv-arc-reactor/) for more pictures
 
 ## Materials
 
